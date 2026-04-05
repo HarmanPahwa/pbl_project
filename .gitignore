@@ -1,0 +1,15 @@
+# Datasets
+CBIS-DDSM/
+dataset/
+
+# Large Model Weights (GitHub has a 100MB file limit)
+*.pth
+*.h5
+*.hdf5
+
+# Visual Studio Code
+.vscode/
+
+# Python compiled files
+__pycache__/
+*.pyc
